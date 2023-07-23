@@ -1,0 +1,38 @@
+.par1{
+    width: 500px;
+    background-color: orange;
+    color: white;
+}
+.par2{
+    width:600px;
+    background-color: rgb(3, 152, 120);
+    color: white;
+    padding-right: 10px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    margin-bottom:0;
+}
+.par3{
+    width: 500px;
+    background-color: rgb(125, 23, 221);
+    color: white;
+    padding-top: 30px;
+    margin-top: 0;
+    
+    
+}
+.par4{
+    width: 520px;
+    background-color: rgb(2, 194, 2);
+    color: white;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+.par5{
+    width: 520px;
+    background-color: rgb(2, 194, 2);
+    color: white;
+    padding-bottom: 20px;
+    padding-right: 20px;
+
+}

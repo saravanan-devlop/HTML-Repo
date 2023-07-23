@@ -1,0 +1,38 @@
+header{
+  margin: 20px 40px;
+  background-color: aquamarine;
+  border: 2px dashed black;
+  padding: 20px;
+}
+.first-line p::first-line{
+    color: red;
+    font-variant: small-caps;
+
+}
+.first-letter p::first-letter {
+    color: red;
+    font-size: xx-large;
+  }
+.multiple-element p::first-letter {
+    color: red;
+    font-size: xx-large;
+  }
+  
+.multiple-element p::first-line {
+    color: blue;
+    font-variant: small-caps;
+  }
+.before-element h1::before{
+    content: "(hi) ";
+  }
+.after-element h1::after{
+    content: " (hi) "
+}
+::marker{
+    color: red;
+    font-size: 23px;
+}
+.selection-element p::selection{
+    background-color: orange;
+    color:blueviolet;
+}

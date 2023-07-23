@@ -1,0 +1,81 @@
+body{
+   margin-left: 30%;
+   margin-right: 26%;
+   
+
+}
+header{
+    border: 1px solid red;
+    width:600px;
+    height: 80px;
+    text-align: center;
+    margin-bottom: 10px;
+
+}
+.box3{
+    border: 1px solid purple;
+    width:400px;
+    height: 360px;
+    text-align: center;
+
+}
+.posttitle{
+    border: 1px solid green;
+    width:380px;
+    height: 50px;
+    text-align: center;
+    margin-left: 10px;
+    
+
+}
+.postcontent{
+    border: 1px solid red;
+    width:280px;
+    height: 30px;
+    text-align: center;
+    margin: 10px;
+    padding: 50px;
+
+}
+.comments{
+    border: 1px solid purple;
+    width:70%;
+    height: 30px;
+    text-align: center;
+    margin: 10px;
+    padding: 50px;
+
+}
+.box2{
+    float: right;
+    border: 1px solid rgb(8, 185, 123);
+    width:185px;
+    margin-top: -362px;
+    height: 90px;
+    text-align: center;
+}
+.box4{
+    float: right;
+    border: 1px solid rgb(140, 69, 179);
+    width:185px;
+    margin-top: -260px;
+    height: 150px;
+    text-align: center;
+}
+.box5{
+    float: right;
+    border: 1px solid rgb(133, 179, 69);
+    width:185px;
+    margin-top: -100px;
+    height: 100px;
+    text-align: center;
+}
+.box6{
+    border: 1px solid red;
+    width:600px;
+    height: 80px;
+    text-align: center;
+    margin-top: 10px;
+
+    
+}

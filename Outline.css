@@ -1,0 +1,37 @@
+.content{
+    margin-left: 30%;
+    margin-top: 10%;
+    font-size: x-large;
+    border-spacing: 40px;
+    background-color:rgb(226, 226, 42);
+}
+td{
+    padding: 40px;
+}
+.col_one{
+    outline:10px solid blue;
+}
+.col_two{
+    outline:10px dashed blue;
+}
+.col_three{
+    outline:10px dotted blue;
+}
+.col_four{
+    outline:10px double blue;
+}
+.col_five{
+    outline:10px groove blue;
+}
+.col_six{
+    outline:none;
+}
+.col_seven{
+    outline:10px ridge blue;
+}
+.col_eight{
+    outline:10px inset blue;
+}
+.col_nine{
+    outline:10px outset blue;
+}

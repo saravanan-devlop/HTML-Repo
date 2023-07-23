@@ -1,0 +1,87 @@
+body{
+    background-image: linear-gradient(to bottom left,rgb(206, 40, 206),rgb(47, 47, 194),rgb(42, 160, 199));
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-attachment: fixed;
+    height: 100vh;
+    display: flex; 
+}
+.main{
+    background-color: white;
+    background-attachment: fixed;
+    margin: 1% 37%;
+    padding: 35px 30px;
+    height: 570px;
+    border-radius: 6px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(42, 40, 40);
+
+    
+}
+h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    padding-top: 20px;
+
+}
+input{
+    margin-bottom: 20px;
+    padding-top: 10px;
+    width: 270px;
+    border:none;
+    border-bottom:2px solid rgba(174, 171, 171, 0.886) ;
+
+}
+
+a.c{
+    text-decoration: none;
+    color: rgb(42, 40, 40);
+    padding-left: 150px;
+    
+    
+}
+button{
+    margin-top: 20px;
+    width: 270px;
+    height: 30px;
+    border:none;
+    border-radius: 10px;
+    background-image:linear-gradient(to bottom left,rgb(206, 40, 206),rgb(47, 47, 194),rgb(42, 160, 199));
+    color: white;
+}
+a.d{
+    background-color:rgb(22, 1, 44);
+    border: none;
+    padding: 10px;
+    border-radius: 100%;
+}
+a.e{
+    background-color:rgb(5, 24, 144);
+    border: none;
+    padding: 10px;
+    border-radius: 100%;
+}
+a.f{
+    background-color:rgb(226, 16, 16);
+    border: none;
+    padding: 10px;
+    border-radius: 100%;
+}
+p.par1{
+    padding-left: 80px;
+    padding-bottom: 30px;
+    
+}
+.anchor{
+    margin-left: 80px;
+}
+p.par2{
+    padding-left: 80px;
+    padding-top: 70px;
+    
+}
+a.g{
+    padding-left: 115px;
+    text-decoration: none;
+    color:rgb(42, 40, 40);
+}

@@ -1,0 +1,22 @@
+h1{
+    text-transform: uppercase;
+}
+h3{
+    text-transform: uppercase;
+    text-decoration: underline;
+
+}
+#email{
+    text-decoration:underline;
+    color: blue;
+}
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding:5px;
+    width:1200px;
+}
+img{
+    height: 200px;
+    width:150px;
+}

@@ -1,0 +1,36 @@
+body{
+    background-color: yellow;
+}
+/* h1{
+    position: sticky;
+    top:0;
+} */
+.nav-link{
+    position: sticky;
+    top: 0;
+    list-style-position: none;
+    
+}
+ul{
+   
+    display: flex;   
+    list-style-type:none ;
+  
+    justify-content: space-between;
+    margin-left: 650px;
+    width: 600px;
+    border: none;
+    border-radius: 50px;
+    background-color: black;
+    height: 30px;
+    
+   
+    
+}
+a{
+    text-decoration: none;
+    color: white;  
+}
+.con{
+    padding-right: 20px;
+}
